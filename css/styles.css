@@ -1,9 +1,12 @@
 .tri, .tri2, .not{
-  display: none;
+  display:none ;
+  font-style: bold;
+  color: white;
+  text-shadow: 2px 2px black;
+  font-family: georgia;
 }
 body {
   background-image: url(../images/BackG.png);
-
   font-weight: bold;
   align-content: center;
   text-align: center;
@@ -14,7 +17,8 @@ body {
 
 img.tridiag {
   width: 450px;
-  padding: 60px;
+  padding: 5px;
+  padding-bottom: 60px;
 }
 div.header img {
   opacity: 0.8;
@@ -26,7 +30,6 @@ div.header {
   font-weight:lighter;
   font-family: serif;
 }
-
 div.bio{
   height:300px;
   font-style: bold;
@@ -38,15 +41,16 @@ html {
   background: rgba(218,165,32, 0.7)
 }
 h5 {
-  font-weight: lighter;
-  color: white, 0.4;
+  font-weight: bolder;
+  color: #DAA520;
+  text-shadow: 1px 1px black;
   font-style: italic;
   border-width: thin;
-  border-color: black;
+  border-color: rgba(218, 165, 32, 0.4);
   border-style: solid;
   width: 100%;
   margin: 10px;
-  background: rgba(255, 0, 0, 0.4)
+  background: rgba(218, 165, 32, 0.4);
 }
 h6{
    background: rgba(72,209,204, 0.3);
@@ -57,6 +61,4 @@ h6{
    padding: 5px;
    padding-bottom: 7px;
 }
-@media query {
-  max
-}
+ol{ list-style-type: none; }
