@@ -9,7 +9,7 @@ function pressTo() {
 
     if(sideA == sideB && sideA == sideC){
         alert("Equilateral")
-        document.getElementByClass('tri').style.display = "inline"//causes default to something visible ovverriding displaynone in CSS;
+        return document.getElementByClass('tri').style.display = "inline"//causes default to something visible ovverriding displaynone in CSS;
     } else if(sideA == sideB || sideA == sideC || sideB == sideC){
         alert("Isosceles")
     } else if (sideA + sideB < SideC || sideC + sideA < SideB || sideC + sideB < SideA) {
