@@ -1,0 +1,9 @@
+.RESPONSE p{
+  display: none;
+}
+body {
+  background-image: url(../images/BackG.png);
+  font-weight: bold;
+  align-content: center;
+  text-align: center;
+}
