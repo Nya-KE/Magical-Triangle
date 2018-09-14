@@ -20,7 +20,7 @@ According to Triangle Rules...
 Equilateral: All sides are equal.
 Isosceles: Exactly 2 sides are equal.
 Scalene: No sides are equal.
-NOT a triangle: The sum of the lengths of any two sides of a triangle is less than or equal to the length of the thir
+NOT a triangle: The sum of the lengths of any two sides of a triangle is less than or equal to the length of the third.
 
 Therefore, webpage should produce the following type of response:
 e.g
@@ -31,6 +31,8 @@ output: Isosceles Triangle
 [Magical Triangle](https://nya-ke.github.io/Magical-Triangle/)
 
 #### Copyright & License Info
+(c)2018 nya_KE
+
 Background Image credits to:   [kisspng](https://www.kisspng.com/png-geometric-patterns-8747/download-png.html)
 
 Colours derived with the help of:
