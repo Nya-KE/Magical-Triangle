@@ -6,7 +6,7 @@ A webpage which allows users to input three lengths and inform whether they form
 
 #### Setup
 Git clone
-`git clone https://github.com/Nya-KE/Magical-Triangle.git
+`git clone https://github.com/Nya-KE/Magical-Triangle
 ``
 
 additional :)
