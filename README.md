@@ -37,3 +37,5 @@ Background Image credits to:   [kisspng](https://www.kisspng.com/png-geometric-p
 
 Colours derived with the help of:
 [rapidtables](https://www.rapidtables.com/web/color/html-color-codes.html)
+
+Code alternatives and instructions enclosed in comments. Code shout-out to Gloria Givondo

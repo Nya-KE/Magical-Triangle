@@ -16,11 +16,11 @@ function pressTo() {
      triangleSides.push(sideC)
      console.log(triangleSides)
 
-    /*
-    console.log(triangle.push(){
-      triangle.charAt[0] ;
-      triabglechar[1] = sideB;
-      char[2] = sideC;)
+    /* Gloria Givondo Brilliant method
+    var sides = [document.getElementById("lengthA").value, document.getElementById("lengthB").value, document.getElementById("lengthC").value];
+    var lengthA = sides[0]
+    var lengthB = sides[1]
+    var lengthC = sides[2]’
     })*/
 
     if(sideA == sideB && sideA == sideC){
