@@ -1,5 +1,5 @@
-.tri, .tri2, .not{
-  display:none ;
+#tri, #tri2, #not{
+  display: none;
   font-style: bold;
   color: white;
   text-shadow: 2px 2px black;
